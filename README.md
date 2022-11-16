@@ -1,6 +1,8 @@
 # fog
 ## 我的興趣是製作遊戲
 
+My dream is to create an MMO game and play it with people all over the world.
+
 夢はMMOのゲームを作って、
 世界中の人と楽しく遊ぶことです
 
