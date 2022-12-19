@@ -8,10 +8,7 @@ My dream is to create an MMO game and play it with people all over the world.
 
 ---
 
-<p align="left">
-  <a href="https://github.com/fog-zs/fog-zs/">
-    <img src="https://komarev.com/ghpvc/?username=fog-zs" alt="zs_fog" />
-  </a>
+<p align="left">  
   <a href="http://twitter.com/zs_fog">
     <img height="20" src="https://img.shields.io/twitter/follow/zs_fog?label=Twitter&logo=twitter&style=flat" />
   </a>
