@@ -16,3 +16,7 @@ My dream is to create an MMO game and play it with people all over the world.
     <img height="20" src="https://img.shields.io/github/followers/fog-zs?label=follow&logo=github&style=flat" />
   </a>  
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fog-zs&layout=compact&theme=react", height="auto"/>
+</a>
