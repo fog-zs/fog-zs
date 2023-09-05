@@ -1,5 +1,5 @@
 # fog
-## 我的興趣是製作遊戲
+## 夢想是做一個線上遊戲，和全世界的人玩得開心！
 
 My dream is to create an MMO game and play it with people all over the world.
 
