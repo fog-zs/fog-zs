@@ -23,7 +23,7 @@ https://github.com/tik-choco
 https://github.com/DecentralizedMetaverse
 
 ### ゲーム開發集會
-毎週日曜日 21:50～開催
+隔週日曜日 21:00～開催
 
 https://github.com/metaverse-gdm
 
