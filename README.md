@@ -5,7 +5,16 @@
 
 My dream is to create an MMO game and play it with people all over the world.
 
+## 現在取り組んでいること
+- 分散型メタバースの開発    
+    - https://github.com/DecentralizedMetaverse/
+
+- アニメ調の異世界で生活するためのオンラインゲームの開発
+    - https://tik-choco.github.io/tc-website/
+    - https://github.com/tik-choco
+
 <img src="https://github.com/fog-zs/fog-zs/assets/38463346/115360dc-c187-4a6d-adbb-2f7df0e9de50" width="20%" />
+
 
 ## 今まで制作してきたゲーム
 
@@ -13,14 +22,7 @@ https://tc.tik-choco.com/
 
 ## 関連団体・プロジェクト
 ### TikChoco
-アニメ調の異世界で生活するための環境を作るProject
-
-https://github.com/tik-choco
-
-### Fogverse Project
-完全分散型メタバースの実現を目指すProject
-
-https://github.com/DecentralizedMetaverse
+https://tik-choco.com
 
 ### ゲーム開發集會
 隔週日曜日 21:00～開催
