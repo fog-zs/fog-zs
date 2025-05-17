@@ -3,9 +3,15 @@
 ## 夢は可愛いファンタジーの異世界で生活することです！
 https://tik-choco.github.io/tc-website/
 
-我的夢想是在可愛的幻想異世界里生活！
+開発者募集しているので、VRChatで気軽に声を掛けてください！
+
+我的梦想是在可爱的幻想异世界里生活！
+我们正在招募开发者，欢迎在VRChat上随时联系我！
 
 My dream is to create an MMO game and play it with people all over the world.
+We’re looking for developers, so feel free to reach out to me on VRChat!
+
+[VRChat: fog8360](https://vrchat.com/home/user/usr_99fc11cf-d86c-421a-846e-fc0744530879)
 
 ## 現在取り組んでいること
 - 分散型メタバースの開発    
