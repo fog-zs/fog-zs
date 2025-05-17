@@ -1,9 +1,9 @@
 # fog (曉霧)
 
 ## 夢は可愛いファンタジーの異世界で生活することです！
-やりたいことはほとんど技術的に可能！ただ時間がかかるだけ！
+https://tik-choco.github.io/tc-website/
 
-夢想是做一個線上遊戲，和全世界的人玩得開心！
+我的夢想是在可愛的幻想異世界里生活！
 
 My dream is to create an MMO game and play it with people all over the world.
 
@@ -30,9 +30,6 @@ https://tik-choco.com
 隔週日曜日 21:00～開催
 
 https://github.com/metaverse-gdm
-
-### メタバース研究会Futuria
-https://github.com/oita-metaverse
 
 ---
 
