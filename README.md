@@ -15,7 +15,7 @@ We’re looking for developers, so feel free to reach out to me on VRChat!
 
 ## 現在取り組んでいること
 - 分散型メタバースの開発    
-    - https://github.com/DecentralizedMetaverse/
+    - https://github.com/tik-choco-lab
 
 - アニメ調の異世界で生活するためのオンラインゲームの開発
     - https://tik-choco.github.io/tc-website/
