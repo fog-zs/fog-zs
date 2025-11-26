@@ -2,7 +2,7 @@
 
 ## My dream is to live in a cute, fantasy-style isekai world!
 
-[https://tik-choco.github.io/tc-website/](https://tik-choco.github.io/tc-website/)
+[https://tik-choco.github.io/tc-website/en/](https://tik-choco.github.io/tc-website/en/)
 
 We’re recruiting developers, so feel free to talk to me on VRChat!
 
